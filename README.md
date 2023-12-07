@@ -1,18 +1,34 @@
-# Michael-s-HTML-and-CSS
-Task:
-Create two files: index.html and styles.css in an empty repository. Ensure the import of styles from styles.css in index.html. Next, create a web page with three horizontal stripes: one at 10% of the screen height with the class header, the second at 70% of the height with the class main, and the third at 20% of the height with the class footer. The width of all stripes should span the entire screen.
+# Michael's HTML and CSS
 
-Task Description:
-Create a repository on GitHub.
-Add two files: index.html and styles.css in your repository.
-In index.html, ensure the import of styles from styles.css.
-In the styles.css file, create styles for horizontal stripes (header, main, footer).
-Place the horizontal stripes on the page according to the specified requirements.
-Additional Information:
-The width of all stripes should span the entire screen.
-Ensure the use of classes for styling.
-The stripes should be visually distinct and have specified heights as a percentage of the screen height.
-Link to the Repository:
+## Task
+
+### Objective
+
+Create a simple webpage using HTML and CSS.
+
+### Instructions
+
+1. Create a new repository on GitHub.
+2. Add two files to the repository: `index.html` and `styles.css`.
+3. Ensure the import of styles from `styles.css` in `index.html`.
+4. Design a webpage with three horizontal stripes:
+   - One at 10% of the screen height with the class `header`.
+   - The second at 70% of the height with the class `main`.
+   - The third at 20% of the height with the class `footer`.
+5. Ensure that the width of all stripes spans the entire screen.
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Open `index.html` in a web browser to view the webpage.
+
+## Additional Information
+
+- Use classes for styling.
+- The stripes should be visually distinct and have specified heights as a percentage of the screen height.
+
+## Task Submission
+
 After completing the task, create a pull request and provide a link to your repository for result verification.
 
 Good luck with the task!
